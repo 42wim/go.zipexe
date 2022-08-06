@@ -1,3 +1,3 @@
-module github.com/daaku/go.zipexe
+module github.com/42wim/go.zipexe
 
-go 1.11
+go 1.19
